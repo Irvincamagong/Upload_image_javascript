@@ -1,1 +1,2 @@
-# Upload_image_javascript
+# jsUploadpic
+Simple JavaScript program that upload pictures.
